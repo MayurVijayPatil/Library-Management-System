@@ -1,6 +1,8 @@
-# Terminal-Based Library Management System
+# Library Management System
 
-A simple Python mini project for managing library books from the terminal. This project is suitable for Anudip Foundation submission because it uses a menu system, OOP, file handling, JSON storage, and input validation.
+**A terminal-based Python mini project for managing library books.**
+
+This project helps a librarian add books, view records, search books, issue books, return books, and delete book details. It uses a simple menu-driven interface and stores all book data in a JSON file.
 
 ## Synopsis
 
